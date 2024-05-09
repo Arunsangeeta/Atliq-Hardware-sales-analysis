@@ -1,4 +1,6 @@
+
 <p4>Atliq-Hardware-Business analysis</p4><br>
+To check live project please refer my novyproportfolio here-> https://www.novypro.com/profile_about/sangeetarani?Popup=memberProject&Data=1715058620798x688250005182920000
 
 <b>Problem</b>- Atliq hardware company is not making profit in some regions and country. The performance is going down in various region. AtliQ Hardware, a growing electronics company, faced a major setback in some areas prompting a need for data-driven decisions.
 
