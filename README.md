@@ -1,7 +1,8 @@
-<p4>Atliq-Hardware-data- analysis</p4><br>
-Currently ongoing project
+<p4>Atliq-Hardware-Business analysis</p4><br>
 
-<b>Problem</b>- Atliq hardware company is not making profit in some regions and country. The performance is going down in various region. The data contain all information about sales, region, products, customers, markets, pre invoice deductions, post-invoice deduction, freight cost, manufacturing cost.
+<b>Problem</b>- Atliq hardware company is not making profit in some regions and country. The performance is going down in various region. AtliQ Hardware, a growing electronics company, faced a major setback in some areas prompting a need for data-driven decisions.
+
+The Solution: Introducing Business Insights 360, a Power BI project that empowers AtliQ with actionable insights across Finance, Sales, Marketing, Supply Chain, and an exclusive Executive View. The data contain all information about sales, region, products, customers, markets, pre invoice deductions, post-invoice deduction, freight cost, manufacturing cost.
 <br>
 ## Step 1
 ETL- I loaded the database in sql file into Power bi and did transformation on data.
@@ -24,8 +25,14 @@ measures- Profit and lose value for present year, last year, net sales, net prof
 
 ![MEASURES](https://github.com/Arunsangeeta/Atliq-Hardware-sales-analysis/assets/110085545/8c7f9dc1-1868-4008-b9d8-5907b2d3a7ba)
 
-## step 4 Dashboard - currently working on it
-Finance view
+## step 4 creating dynamic dashboards
+I have created 5 dynamic dashboards:
+ <b>1) Finance View<b>
+ 1) It analysed the Profit and loss statement for customers and for the products as well
+ 2) Added visualization for top and bottom net sales for  customers and products
+ 3) net sales performance for each customer over 4 years.
+ 4) Added Key performance indicator like Gross margin, net sales and net profit compared it with benchmark set by company.
+ 5) also added some slicers to analysed profit, net sales, gm in quaters, year and by targets.
 
 ![finance view](https://github.com/Arunsangeeta/Atliq-Hardware-sales-analysis/assets/110085545/2ca2b5e7-d8de-430f-afa8-18d45bc949de)
 
